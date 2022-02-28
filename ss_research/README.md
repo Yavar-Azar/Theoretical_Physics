@@ -24,6 +24,10 @@
 
   
 
+  
+
+  
+
    
 
   - PEABr is an appropriate large organic cation which can reduce dimension of the 3D CsPbBr3 crystal because of stronger hydrogen bond [[6](https://opg.optica.org/ome/fulltext.cfm?uri=ome-10-5-1182&id=429910#ref6)] between the hydrogen atom of PEABr and the bromide atoms compared to the bond between Cs+ and Br−.
@@ -53,7 +57,9 @@ https://www.nature.com/articles/s41467-018-04014-0
 
 ## Termination dependent Dresselhaus-Rashba pattern in perovskite thin films
 
-Here we show ....
+- [ ] Run the slab PbI2-terminated without relaxation 
+- [ ] Compare DOS near the CB after field 
+- [ ] 
 
 
 
